@@ -1,0 +1,6 @@
+input:checked ~ img {
+    opacity: 0;
+}
+img {
+    transition: 1.5s;
+}
