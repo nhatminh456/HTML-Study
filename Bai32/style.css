@@ -1,3 +1,6 @@
+
+
+/* Khi di chuột vào thẻ href thì đổi màu chữ thành đỏ */
 [href] {
     color: red;
 }

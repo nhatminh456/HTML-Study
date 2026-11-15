@@ -1,0 +1,13 @@
+
+
+/* khi div rỗng */
+.div_elm:empty {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+
+}
+h2:target{
+    color: aqua;
+}
+

@@ -1,0 +1,12 @@
+
+/* đổi màu link */
+.clickme:link {
+    color: chocolate;
+}
+
+
+/* khi đã click đổi màu */
+.clickme:visited{
+    color:red;
+}
+
