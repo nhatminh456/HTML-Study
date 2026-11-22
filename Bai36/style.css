@@ -1,0 +1,34 @@
+/* Chọn phần tử p đầu tiên trong mỗi phần tử div
+p:first-child{
+    color: red;
+    font-size: 30px;
+}
+/* phần tử con cuối cùng */
+/* p:last-child {
+    color: blue;
+    font-size: 20px;
+} */
+
+/*  tác động vào phần tử thẻ con thứ 2 */
+/* p:nth-child(2) {
+    color: green;
+    font-size: 25px;
+} */ 
+
+/* tác động vào phần tử con lẻ 
+p:nth-child(even) {
+    color: blue;
+    font-size: 20px;
+} */
+ 
+
+p:nth-child(3n+1) {
+    color: red;
+    font-size: 16px;
+}
+
+/* tác động vào phần tử con cuối cùng */
+p:nth-last-child(2) {
+    color: purple;
+    font-size: 20px;
+}

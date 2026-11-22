@@ -1,0 +1,20 @@
+/* p:first-child {
+    color:red;
+}
+p:first-of-type {
+    color: blueviolet;
+}
+
+h2:last-of-type {
+    color: aqua;
+} */
+
+
+p:nth-of-type(3) {
+    color: red;
+    font-size: 30px;
+
+}
+P:nth-child(1){
+color:blue;
+}

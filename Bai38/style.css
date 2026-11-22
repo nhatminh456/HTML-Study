@@ -1,0 +1,4 @@
+.top:not(p) {
+   background-color: yellow;
+   
+}
