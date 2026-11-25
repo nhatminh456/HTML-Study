@@ -1,0 +1,9 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+
+    padding: 20px 30px 40px;
+    /* border: 10px solid blue; */
+    border: 10px outset pink;
+}

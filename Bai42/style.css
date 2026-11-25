@@ -1,0 +1,9 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    padding: 10px 20px 30px 40px;
+    border: 10px solid red;
+    /* margin: 15px; khoảng cách giữa nó với phần tử khác */
+    margin-top: 15px;
+}
