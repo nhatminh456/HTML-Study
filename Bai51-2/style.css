@@ -1,0 +1,16 @@
+body {
+    background-color: beige;
+}
+a{
+    text-decoration: none;
+    background-color: pink;
+    border-radius: 999px;
+    color: black;
+    display: inline-block;
+    padding: 8px 16px;
+    text-align: center;
+
+}
+a:hover{
+    background-color: aquamarine;
+}
